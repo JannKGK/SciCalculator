@@ -15,7 +15,7 @@
 		<ApplicationTitle>SciCalculator</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.scicalculator</ApplicationId>
+		<ApplicationId>me.kristjan.scicalculator</ApplicationId>
 		<ApplicationIdGuid>CCDDB1A2-8915-494F-A9FA-5181F61D1D9E</ApplicationIdGuid>
 
 		<!-- Versions -->
